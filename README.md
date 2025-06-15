@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Elemental Battlegrounds
 
 A Roblox battle arena game inspired by "The Strongest Battlegrounds" with elemental abilities.
@@ -83,3 +84,7 @@ Capture and hold the hill to earn points for your team.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# elemental-battlegrounds
+A Roblox battlegrounds game with elemental abilities
+>>>>>>> b2827c791ddbb196a7b3711a08f980de4011a8a7
